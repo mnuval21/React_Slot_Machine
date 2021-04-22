@@ -9,6 +9,12 @@ class App extends React.Component {
           s3="🍒"
         />
 
+<Machine
+          s1="🍒"
+          s2="🍒"
+          s3="🍊"
+        />
+
       </div>
     )
   }
